@@ -1,0 +1,11 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 313196750- Ofir Shemesh
+Second Student Details: 314962663- Yael Keren
+Delivery Date.........: 29- August- 2019
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2017
+Comments..............: 1. owner phone number limited to 10 digits.
+		2. license number can be letters/digits/both in any lenght (just not empty string)
+========================End Exercise Checking Report========================
